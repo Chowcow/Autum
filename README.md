@@ -1,3 +1,11 @@
+# Get started
+
+First, we use conda for this. Install conda - following the instructions:
+[here](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html)
+
+Then to get started run `./init.sh` and then whenever you start up a new shell
+run `./update.sh`
+
 # Generation Q
 A tool to help teachers generate quiz questions about their reading assignments. Try it out here: www.generationq.online
 
