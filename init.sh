@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-conda create -n autum -f env.yaml
+conda env create -n autum -f env.yaml
