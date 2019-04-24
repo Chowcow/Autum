@@ -6,6 +6,11 @@ First, we use conda for this. Install conda - following the instructions:
 Then to get started run `./init.sh` and then whenever you start up a new shell
 run `./update.sh`
 
+*Note:* I had to figure out some build issues with Macs... it sucked. So, I
+followed
+[this](https://docs.conda.io/projects/conda-build/en/latest/resources/variants.html#conda-build-variant-config-files)
+
+Then we have a jupyter notebook -  `jupyter notebook`
 # Generation Q
 A tool to help teachers generate quiz questions about their reading assignments. Try it out here: www.generationq.online
 
